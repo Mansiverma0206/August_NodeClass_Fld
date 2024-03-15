@@ -1,0 +1,13 @@
+state : its is an object .
+        state is a data or information that is related with component .
+         react state can provide binding .
+
+        class component me state constructor me bnti h
+ why use state 
+ runtime me jo bhi changes hote h vo state ke through change hote h esliye state ka use krte h 
+
+ data binding => code to view hoti h
+
+ event binding => view to code hoti h
+
+
